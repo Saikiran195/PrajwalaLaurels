@@ -1,0 +1,92 @@
+/* start of navbar styling */
+#logo{
+    margin:0.2em;
+    height: 30px;
+    width: 70px !important;
+}
+ul.navbar-right{
+   margin-left: 20em;
+}
+
+ul.navbar-center{
+    margin-left:20em;
+}
+#site-div{
+       display:flex;
+       flex-direction:row
+}
+
+/* end of nav bar styling */
+.custom-control {
+    display: flex;
+    flex-direction: row;
+}
+.form-check{
+       margin-top:0.18em !important;
+       margin-left:0.01em;
+       padding-left:0.01em;
+}
+.selectMultiple{
+    width: 150px;
+}
+#start{
+    margin-left:1em;
+}
+#countrySelect{
+    margin-left:1.5em;
+    width:100px !important;
+}
+.form-check-input{
+       margin-left:1.8em;
+       
+}
+
+#siteSelect{
+    margin-left:0.5em;
+	width: 100px;
+}
+#siteSelLbl{
+       margin:0.18em;
+}
+.form-check-input{
+       margin-left:2em !important;
+       box-shadow: 1px 1.6px 1.6px red;
+       margin-top:0.3em !important;
+}
+
+#findingsSelect{
+    width:250px;
+    margin-left:4em;
+}
+.textarea-div{
+    display: flex;
+    flex-direction: row;
+}
+p{
+    margin-left: 10em;
+}
+#subjectId{
+    width:500px;
+    margin-left:5.1em;
+}
+
+#editcheckNumber{
+    width:500px;
+    margin-left:1.6em;
+}
+.buttons{
+    margin-left: 20em;
+}
+
+.text-div{
+	display:flex;
+	flex-direction:row;
+}
+#selDesc{
+	width:300px !important;
+	margin-left:2em;
+}
+#displayRecordCount, #assignBatch-div{
+	color:red;
+	margin-left:10em;
+}

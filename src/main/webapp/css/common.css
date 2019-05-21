@@ -1,0 +1,52 @@
+   .logout:hover .dropdown-content {
+    display: block;
+  }
+
+  #background{
+      border-width: 5px;
+      border-style: solid;
+      border-color: #F3C9C9;
+
+  }
+  body{
+  background-color: #FCFCF3;
+  width:1352px;
+  }
+  #logo {
+  border-radius:10px;
+  }
+  #logo1 {
+  border-radius:60px;
+  }
+  #list{
+  list-style-type: none;
+  overflow: hidden;
+  }
+  li a {
+  text-align: center;
+  }
+  li a:hover:not(.active) {
+  background-color:#e3f2fd;
+  border-radius:35px;
+  color: black;
+  text-align: center;
+  }
+  .active{
+color:darkgreen;
+border-radius:35px;
+}
+table, td {
+	padding-top: 7px;
+}
+
+td {
+	width: 200px;
+}
+
+#td1 {
+	width: 120px;
+}
+
+#tbl {
+	width: 120px;
+}
